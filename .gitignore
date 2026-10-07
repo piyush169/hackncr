@@ -1,0 +1,5 @@
+evidence-*.txt
+wp-credentials.txt
+*.pem
+.env
+.DS_Store
